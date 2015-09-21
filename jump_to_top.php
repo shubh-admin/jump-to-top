@@ -35,8 +35,5 @@ function gtp_function($atts) {
       'bottom'=>20,
 	  'right'=> 20
    ), $atts));
-   ?>
- 
-  <?php
-
+   include_once(GTP_URL.'jscode.php');
 }
