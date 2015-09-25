@@ -1,3 +1,4 @@
+<script>
   $ = jQuery.noConflict();
 	  (function($){
 				$.fn.addScrollToTopButton = function(options){
@@ -40,4 +41,5 @@
 
 				$('#gtp').addScrollToTopButton({speed:"<?php echo $speed ?>"});
 			});
+		  </script>
   
