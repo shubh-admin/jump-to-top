@@ -22,7 +22,7 @@ e.g.
 
 1. Upload `jump_to_top` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Place `<?php do_action('[go-to-top]'); ?>` in your templates
+3. Place `<?php do_action('[go-to-top]'); ?>` in your templates if you want to user short code in templates file.
 
 == Frequently Asked Questions ==
 
