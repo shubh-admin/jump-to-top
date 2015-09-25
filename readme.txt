@@ -9,7 +9,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 3.0.1
 Stable tag: 0.0.1
 
-Facilitate user to Jump to top on page, post.
+Facilitate user to Jump to top on page, post..
 
 == Description ==
 This is a simple plugin though which you can create go to top link anywhere on the posts, pages, or template. With a simple shortcode [go-to-top]
