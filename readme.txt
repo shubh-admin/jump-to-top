@@ -7,7 +7,7 @@ Tested up to: 4.4
 License: GPLv2 or later  
 License URI:http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 3.0.1
-Stable tag: 0.0.1
+Stable tag: 0.0.2
 
 Facilitate user to Jump to top on page, post..
 
@@ -34,6 +34,8 @@ e.g.
 
 
 == Changelog ==
+= 0.0.2 =
+* Compatible test with WP version 4.4
 
 = 0.0.1 =
 * Initial release
