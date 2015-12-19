@@ -4,7 +4,7 @@
   Plugin Name: Go To Top
   Plugin URI: http://shubhcomputing.com/
   Description: Facilitates to make you on the top of page, post
-  Version: 0.1.0
+  Version: 0.0.2
   Author: Shubh Computing LLP
   Author URI: http://shubhcomputing.com/
   */
